@@ -9,4 +9,4 @@ Puedes ver los datos directamente desde el archivo CSV haciendo clic en el sigui
 O puedes visualizarlos utilizando el siguiente script:
 
 ```html
-<script src="https://gist.github.com/devhyre/currency_global_data.js?file=monedas.csv"></script>
+<script src="[https://gist.github.com/devhyre/currency_global_data.js?file=monedas.csv](https://github.com/devhyre/currency_global_data/blob/main/monedas.csv)https://github.com/devhyre/currency_global_data/blob/main/monedas.csv"></script>
